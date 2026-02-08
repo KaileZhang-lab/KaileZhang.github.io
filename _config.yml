@@ -18,9 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: "About me", sidebaricon: home}
-  - {title: "Research", sidebaricon: address-card}
-  - {title: "Publications", sidebaricon: address-card}
+  - {title: "About me"}
+  - {title: "Research"}
+  - {title: "Publications"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "zhangk@lincolnu.edu"}
