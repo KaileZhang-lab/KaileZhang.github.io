@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-##Peer-reviewed publications – [Google Scholar](https://scholar.google.com/citations?user=JCBN3MEAAAAJ&hl=en)  
+## Peer-reviewed publications – [Google Scholar](https://scholar.google.com/citations?user=JCBN3MEAAAAJ&hl=en)  
 #: corresponding author  
   
 23. Netto-Ferreira, J.B.; Wilson C.H.; **Zhang, K**; Maltais-Landry, G. Sustainable intensification with winter crops stimulates soil nitrogen availability and N-cycling gene expression but does not result in substantial benefits to subsequent corn. Biology and Fertility of Soils, 2026, 1-19. [https://doi.org/10.1007/s00374-025-01967-5](https://doi.org/10.1007/s00374-025-01967-5)  
@@ -51,7 +51,7 @@ title: ""
 
 1. Chen, L.; Luo, Y.; Xu, J.; Yu, Z.; **Zhang, K.**; Brookes, P.C. Assessment of bacterial communities and predictive functional profiling in soils subjected to short-term fumigation-incubation. Microbial Ecology, 2016, 240-251. [https://doi.org/10.1007/s00248-016-0766-0](https://doi.org/10.1007/s00248-016-0766-0)
 
-##Book chapter
+## Book chapter  
 Lira Jr, M. A.; Zhang, K.; Erhunmwunse, A.; Liao H.L.; Freitas, A.D.S.; Leal, V.C.; Jaramillo, D.M. Biological nitrogen fixation in dry regions. In book: Forage Systems in Arid and Semiarid Regions. 2025. [10.29327/5681481.1-8](10.29327/5681481.1-8)
 
 
