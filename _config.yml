@@ -20,7 +20,13 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", url: "/"}
   - {title: "People", url: "/people/"}
-  - {title: "Research", url: "/research/"}
+  - {title: "Research", url: "/research/",
+      children:
+      - title: "Soil–microbiome–plant-environment interactions"
+        url: "/research/Soil–microbiome–plant-environment interactions"
+      - title: "Impacts of abiotic stress on terrestrial ecosystems"
+        url: "/research/Impacts of abiotic stress on terrestrial ecosystems"
+      }
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
 
