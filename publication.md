@@ -5,7 +5,7 @@ title: ""
 ## Peer-reviewed publications – [Google Scholar](https://scholar.google.com/citations?user=JCBN3MEAAAAJ&hl=en)  
 #: corresponding author  
 
-Netto-Ferreira, J.B.; Wilson C.H.; **Zhang, K**; Maltais-Landry, G. Sustainable intensification with winter crops stimulates soil nitrogen availability and N-cycling gene expression but does not result in substantial benefits to subsequent corn. Biology and Fertility of Soils, 2026, 1-19. [https://doi.org/10.1007/s00374-025-01967-5](https://doi.org/10.1007/s00374-025-01967-5)  
+Netto-Ferreira, J.B.; Wilson C.H.; **Zhang, K**; Maltais-Landry, G. Sustainable intensification with winter crops stimulates soil nitrogen availability and microbially-mediated N cycling but does not result in substantial benefits to subsequent corn. Biology and Fertility of Soils, 2026, 1-19. [https://doi.org/10.1007/s00374-025-01967-5](https://doi.org/10.1007/s00374-025-01967-5)  
   
 Luo, H.; Zhang, Z.; Fang, X.; Wang Z.; Liu, Z.; Yang, Y.; **Zhang, K.#**, Yi, Z.; Ding, M. Rhizosphere abundant bacteria enhance buckwheat yield, while rare taxa regulate soil chemistry under diversified crop rotations. Agriculture, Ecosystems & Environment, 2025, 393, 109781. [https://doi.org/10.1016/j.agee.2025.109781](https://doi.org/10.1016/j.agee.2025.109781)
 
