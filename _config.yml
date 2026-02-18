@@ -38,7 +38,7 @@ navigation:
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "zhangk@lincolnu.edu"}
   - {title: Github, icon: github, url: "https://github.com/KaileZhang-lab"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Subscribe, icon: rss, url: "/subscribe/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
