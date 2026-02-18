@@ -25,9 +25,9 @@ navigation:
     url: "/research/"
     children:
       - title: "Sustainable management"
-        url: "/research/#sustainable-management"
+        url: "/research/sustainable-management"
       - title: "Environmental change"
-        url: "/research/#environmental-change"
+        url: "/research/environmental-change"
 
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
