@@ -10,18 +10,22 @@ body > *
 
 
 
-  /* ===== Dropdown menu for header nav ===== */
+  /* ===== FORCE HORIZONTAL HEADER NAV + DROPDOWN ===== */
 
 header nav.site-nav
   display: flex !important
+  flex-direction: row !important
+  flex-wrap: nowrap !important
   gap: 2rem !important
   align-items: center !important
-  flex-wrap: nowrap !important
+
+header nav.site-nav > a.nav-link,
+header nav.site-nav > .nav-item
+  display: inline-flex !important
+  align-items: center !important
 
 header .nav-item.has-dropdown
   position: relative !important
-  display: inline-flex !important
-  align-items: center !important
 
 header .dropdown-menu
   display: none !important
