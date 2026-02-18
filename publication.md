@@ -49,6 +49,8 @@ Luo, Y.; Zang, H.; Yu, Z.; Chen, Z.; Gunina, A.; Kuzyakov, Y.; Xu, J.; **Zhang K
 
 **Zhang, K.**; Chen, L.; Li, Y.; Brookes, P.C.; Xu, J.; Luo, Y. The effects of combinations of biochar, lime, and organic fertilizer on nitrification and nitrifiers. Biology and Fertility of Soils, 2017, 77-87. [https://doi.org/10.1007/s00374-016-1154-0](https://doi.org/10.1007/s00374-016-1154-0)
 
+Luo, Y.; Yu, Z.; **Zhang, K.**; Xu, J.; Brookes, P.C. The properties and functions of biochars in forest ecosystems. Journal of Soils and Sediments, 2016, 2005-2020. [https://doi.org/10.1007/s11368-016-1483-5](https://doi.org/10.1007/s11368-016-1483-5)
+
 Chen, L.; Luo, Y.; Xu, J.; Yu, Z.; **Zhang, K.**; Brookes, P.C. Assessment of bacterial communities and predictive functional profiling in soils subjected to short-term fumigation-incubation. Microbial Ecology, 2016, 240-251. [https://doi.org/10.1007/s00248-016-0766-0](https://doi.org/10.1007/s00248-016-0766-0)
 
 ## Book chapter  
