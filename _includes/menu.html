@@ -1,16 +1,42 @@
 {%- if include.menu -%}
-<nav>
-{%- for item in include.menu -%}
-  {%- assign node = site.pages | where: "name", item.file | first -%}
-  {%- assign url = item.url | default: node.url -%}
-  {%- assign title = item.title | default: node.title -%}
-  <a href="{{ url | relative_url }}">
-    {%- if item.icon -%}
-      <svg aria-label="{{ title }}" width="1em" height="1em"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use></svg>
+<nav class="site-nav">
+  {%- for item in include.menu -%}
+    {%- assign node = site.pages | where: "name", item.file | first -%}
+    {%- assign url = item.url | default: node.url -%}
+    {%- assign title = item.title | default: node.title -%}
+
+    {%- if item.children -%}
+      <div class="nav-item has-dropdown">
+        <a class="nav-link" href="{{ url | relative_url }}">
+          {%- if item.icon -%}
+            <svg aria-label="{{ title }}" width="1em" height="1em">
+              <use xlink:href="{{ '/assets/fontawesome/icons.svg' | relative_url }}#{{ item.icon }}"></use>
+            </svg>
+          {%- else -%}
+            {{ title }}
+          {%- endif -%}
+        </a>
+
+        <div class="dropdown-menu">
+          {%- for child in item.children -%}
+            {%- assign cnode = site.pages | where: "name", child.file | first -%}
+            {%- assign curl = child.url | default: cnode.url -%}
+            {%- assign ctitle = child.title | default: cnode.title -%}
+            <a class="dropdown-link" href="{{ curl | relative_url }}">{{ ctitle }}</a>
+          {%- endfor -%}
+        </div>
+      </div>
+
     {%- else -%}
-      {{ title }}
+      <a class="nav-link" href="{{ url | relative_url }}">
+        {%- if item.icon -%}
+          <svg aria-label="{{ title }}" width="1em" height="1em"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ item.icon }}"></use></svg>
+        {%- else -%}
+          {{ title }}
+        {%- endif -%}
+      </a>
     {%- endif -%}
-  </a>
-{%- endfor -%}
+
+  {%- endfor -%}
 </nav>
 {%- endif -%}
