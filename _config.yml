@@ -20,13 +20,14 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", url: "/"}
   - {title: "People", url: "/people/"}
-  - {title: "Research", url: "/research/",
-      children:
+  - title: "Research"
+    url: "/research/"
+    children:
       - title: "Sustainable management"
         url: "/research/#sustainable-management"
       - title: "Environmental change"
         url: "/research/#environmental-change"
-      }
+      
   - {title: "Publications", file: "publication.md"}
   - {title: "Blog"}
 
