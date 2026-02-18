@@ -33,7 +33,7 @@ navigation:
         url: "/research/forest-ecosystems"
 
   - {title: "Publications", file: "publication.md"}
-  - {title: "Blog"}
+  - {title: "News", file: "news.md"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "zhangk@lincolnu.edu"}
