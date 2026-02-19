@@ -6,8 +6,8 @@ permalink: /subscribe/
 
 ## Subscribe to updates
 
-- **RSS/Atom feed:** [Subscribe via RSS]({{ "/feed.xml" | absolute_url }})
+You can follow lab news and publications using any RSS reader.
 
-- If you use Feedly, Inoreader, or Apple News, paste this URL:
+**RSS/Atom feed URL (copy into Feedly, Inoreader, or Apple News):**
 
 `{{ "/feed.xml" | absolute_url }}`
